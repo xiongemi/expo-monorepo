@@ -1,0 +1,26 @@
+{
+  "common": {
+    "correct": "Correct!",
+    "explanation": "Explanation",
+    "next_question": "Next Question",
+    "see_results": "See Results",
+    "ready": "I'm Ready",
+    "option_pending": "Option pending...",
+    "translation_pending": "Translation pending...",
+    "no_questions": "No questions available.",
+    "wiki_label": "Wikipedia",
+    "pass_badge": "Passed!",
+    "fail_badge": "Keep Practicing",
+    "pass_msg": "Great job! You passed the threshold of {{pass}}/{{size}}.",
+    "fail_msg": "The passing score is {{pass}}/{{size}}. You can do it!",
+    "retry": "🔄  Try Again",
+    "home": "Home",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark",
+    "minutes": "minutes",
+    "daily_exercise": "daily exercise",
+    "memory_challenges": "Memory challenges",
+    "start_quiz": "Start Quiz"
+  }
+}

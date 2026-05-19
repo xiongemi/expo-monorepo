@@ -1,0 +1,26 @@
+{
+  "common": {
+    "correct": "正确！",
+    "explanation": "解释",
+    "next_question": "下一题",
+    "see_results": "查看结果",
+    "ready": "准备好",
+    "option_pending": "选项加载中...",
+    "translation_pending": "翻译中...",
+    "no_questions": "暂无题目。",
+    "wiki_label": "维基百科",
+    "pass_badge": "恭喜通过！",
+    "fail_badge": "继续努力",
+    "pass_msg": "干得好！你达到了 {{pass}}/{{size}} 的及格线。",
+    "fail_msg": "及格线是 {{pass}}/{{size}}。你可以做到的！",
+    "retry": "🔄  重试",
+    "home": "首页",
+    "system": "系统",
+    "light": "浅色",
+    "dark": "深色",
+    "minutes": "分钟",
+    "daily_exercise": "日常练习",
+    "memory_challenges": "记忆挑战",
+    "start_quiz": "开始测试"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "common": {
+    "correct": "¡Correcto!",
+    "explanation": "Explicación",
+    "next_question": "Siguiente pregunta",
+    "see_results": "Ver resultados",
+    "ready": "Estoy listo",
+    "option_pending": "Opción pendiente...",
+    "translation_pending": "Traducción pendiente...",
+    "no_questions": "No hay preguntas disponibles.",
+    "wiki_label": "Wikipedia",
+    "pass_badge": "¡Aprobado!",
+    "fail_badge": "Sigue practicando",
+    "pass_msg": "¡Buen trabajo! Has superado el umbral de {{pass}}/{{size}}.",
+    "fail_msg": "La puntuación para aprobar es {{pass}}/{{size}}. ¡Puedes lograrlo!",
+    "retry": "🔄  Reintentar",
+    "home": "Inicio",
+    "system": "Sistema",
+    "light": "Claro",
+    "dark": "Oscuro",
+    "minutes": "minutos",
+    "daily_exercise": "ejercicio diario",
+    "memory_challenges": "Desafíos de memoria",
+    "start_quiz": "Comenzar"
+  }
+}

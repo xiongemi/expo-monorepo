@@ -1,0 +1,26 @@
+{
+  "common": {
+    "correct": "सही!",
+    "explanation": "व्याख्या",
+    "next_question": "अगला प्रश्न",
+    "see_results": "परिणाम देखें",
+    "ready": "तैयार",
+    "option_pending": "विकल्प लंबित...",
+    "translation_pending": "अनुवाद लंबित...",
+    "no_questions": "कोई प्रश्न उपलब्ध नहीं है।",
+    "wiki_label": "विकिपीडिया",
+    "pass_badge": "उत्तीर्ण!",
+    "fail_badge": "अभ्यास जारी रखें",
+    "pass_msg": "शानदार! आपने {{pass}}/{{size}} की सीमा पार कर ली है।",
+    "fail_msg": "उत्तीर्ण होने के लिए अंक {{pass}}/{{size}} है। आप यह कर सकते हैं!",
+    "retry": "🔄  पुनः प्रयास करें",
+    "home": "मुख्य पृष्ठ",
+    "system": "सिस्टम",
+    "light": "लाइट",
+    "dark": "डार्क",
+    "minutes": "मिनट",
+    "daily_exercise": "दैनिक अभ्यास",
+    "memory_challenges": "स्मृति चुनौतियां",
+    "start_quiz": "प्रश्नोत्तरी शुरू करें"
+  }
+}
