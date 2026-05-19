@@ -10,11 +10,14 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.3",
+    "@gluestack-ui/core": "^3.0.20",
+    "@gluestack-ui/utils": "^3.0.21",
     "@react-native-async-storage/async-storage": "2.2.0",
     "@react-navigation/bottom-tabs": "^7.15.13",
     "@react-navigation/elements": "^2.9.17",
     "@react-navigation/native": "^7.2.4",
     "@sentry/react-native": "~7.11.0",
+    "@workspace/shared": "1.0.0",
     "expo": "~55.0.23",
     "expo-application": "~55.0.14",
     "expo-constants": "~55.0.16",
@@ -35,6 +38,7 @@
     "nativewind": "^4.2.2",
     "posthog-react-native": "^4.45.0",
     "react": "19.2.0",
+    "react-aria": "^3.48.0",
     "react-dom": "19.2.0",
     "react-native": "0.83.6",
     "react-native-gesture-handler": "~2.31.2",
@@ -44,7 +48,9 @@
     "react-native-screens": "~4.23.0",
     "react-native-svg": "15.15.3",
     "react-native-web": "~0.21.0",
-    "@workspace/shared": "1.0.0"
+    "react-stately": "^3.46.0",
+    "semver": "^7.5.4",
+    "tailwind-variants": "^0.1.20"
   },
   "devDependencies": {
     "@types/react": "~19.2.10",

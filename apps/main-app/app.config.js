@@ -50,8 +50,8 @@ module.exports = {
       [
         "react-native-google-mobile-ads",
         {
-          androidAppId: process.env.EXPO_PUBLIC_AD_APP_ID_ANDROID,
-          iosAppId: process.env.EXPO_PUBLIC_AD_APP_ID_IOS,
+          androidAppId: process.env.EXPO_PUBLIC_AD_APP_ID_ANDROID || "",
+          iosAppId: process.env.EXPO_PUBLIC_AD_APP_ID_IOS || "",
         },
       ],
       "expo-font",
@@ -62,7 +62,7 @@ module.exports = {
         {
           url: "https://sentry.io/",
           project: "spain",
-          organization: "emily-xiong",
+          organization: "emily-xiong"
         },
       ],
       "expo-localization",
