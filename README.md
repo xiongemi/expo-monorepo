@@ -1,4 +1,4 @@
-# Expo Monorepo
+# Expo Monorepo (Yarn workspace vibe code starter)
 
 Standalone React Native/Expo monorepo with integrated Sentry, PostHog, Google AdMob, and Gluestack UI v3.
 
@@ -10,7 +10,7 @@ Standalone React Native/Expo monorepo with integrated Sentry, PostHog, Google Ad
 
 1.  **Install dependencies**:
     ```bash
-    npm install
+    yarn install
     ```
 
 2.  **Environment Configuration**:
@@ -30,11 +30,11 @@ Standalone React Native/Expo monorepo with integrated Sentry, PostHog, Google Ad
 
 3.  **Run the app**:
     ```bash
-    npm --workspace main-app run ios
+    yarn workspace main-app run ios
     # or
-    npm --workspace main-app run android
+    yarn workspace main-app run android
     # or
-    npm --workspace main-app run web
+    yarn workspace main-app run web
     ```
 
 ## Technology Stack
