@@ -5,7 +5,9 @@ import { PostHogProvider } from "posthog-react-native";
 import { useEffect } from "react";
 import "react-native-reanimated";
 
-import { GluestackUIProvider, useThemeStore } from "@workspace/shared";
+import { GluestackUIProvider } from "@workspace/components";
+import { useThemeStore } from "@workspace/stores";
+import "@workspace/i18n";
 import "@/global.css";
 import * as Sentry from "@sentry/react-native";
 

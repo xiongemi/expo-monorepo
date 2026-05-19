@@ -1,0 +1,9 @@
+{
+  "name": "@workspace/i18n",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "dependencies": {
+    "i18next": "^26.1.0",
+    "react-i18next": "^17.0.7"
+  }
+}

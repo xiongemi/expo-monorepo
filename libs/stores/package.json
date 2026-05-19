@@ -1,17 +1,12 @@
 {
-  "name": "@workspace/shared",
+  "name": "@workspace/stores",
   "version": "1.0.0",
   "main": "src/index.ts",
   "dependencies": {
-    "i18next": "^26.1.0",
-    "react-i18next": "^17.0.7",
     "zustand": "^5.0.3"
   },
   "peerDependencies": {
-    "@gluestack-ui/core": "*",
-    "@gluestack-ui/utils": "*",
     "@react-native-async-storage/async-storage": "*",
-    "nativewind": "*",
     "react": "*",
     "react-native": "*"
   }

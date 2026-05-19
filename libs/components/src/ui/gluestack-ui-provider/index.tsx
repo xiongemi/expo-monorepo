@@ -5,7 +5,7 @@ import type React from "react";
 import { useEffect } from "react";
 import { View, type ViewProps } from "react-native";
 import { config } from "./config";
-import { useThemeStore } from "../../../stores/theme";
+import { useThemeStore } from "@workspace/stores";
 
 export function GluestackUIProvider({
   ...props

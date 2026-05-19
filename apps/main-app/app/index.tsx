@@ -1,5 +1,5 @@
 import { View, Text, TouchableOpacity, StyleSheet, SafeAreaView } from "react-native";
-import { useThemeStore } from "@workspace/shared";
+import { useThemeStore } from "@workspace/stores";
 
 export default function HomeScreen() {
   const { mode, cycleMode } = useThemeStore();
